@@ -3,7 +3,7 @@ A Natural Language Processing (NLP) project to perform sentiment analysis on Twi
 This project demonstrates the complete pipeline from data preprocessing to model training and deployment via Gradio.
 
 <img width="869" height="341" alt="image" src="https://github.com/user-attachments/assets/c5f08297-fe56-410f-a7ea-1670d3b650f7" />
- Overview
+✅ Overview
 This notebook solves a multi-class classification problem by analyzing tweets and classifying them into:
 
 ✅ Positive
