@@ -46,26 +46,13 @@ Model Training
 
 Evaluation
 
-Gradio Interface
+
 
 🧪 Example Prediction
 Input:
 The service was really bad!
 Output:
 Predicted Sentiment: Negative
-
-🚀 How to Run
-Open the notebook in Google Colab or locally
-
-Install the required libraries:
-
-bash
-Copy
-Edit
-pip install pandas numpy nltk scikit-learn matplotlib seaborn gradio
-Run all cells in order
-
-The final cell will launch a Gradio interface
 
 🧠 Tech Stack
 Language: Python 3.x
